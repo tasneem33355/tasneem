@@ -2,10 +2,10 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-## Name 
+## FUTURE OF EARTH
 
 Final project for the Building AI course
-FUTURE OF EARTH
+
 
 ## Summary
 The biological and geological future of Earth can be extrapolated based on the estimated effects of several long-term influences. These include the chemistry at Earth's surface, the cooling rate of the planet's interior, the gravitational interactions with other objects in the Solar System, and a steady increase in the Sun's luminosity.Finally, the most probable fate of the planet is absorption by the Sun in about 7.5 billion years, after the star has entered the red giant phase and expanded beyond the planet's current orbit. The planet is going through a crisis that could lead to the end of life on it, several factors will be mentioned that led to the rise in temperature. These factors led NASA to search for life on a planet other than Earth. Therefore, we need artificial intelligence in order to create a robot to replace astronauts to avoid any human losses. This robot contains sensors that help it find the appropriate planet
