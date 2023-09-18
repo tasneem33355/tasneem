@@ -1,5 +1,4 @@
 ## name
-## future of earth
 
 
 future of earth Final project for the Building AI course
