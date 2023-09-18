@@ -53,6 +53,5 @@ The robot will not be able to give accurate results like astronauts
 ## What next?
 In order to implement and develop that robot, I will need astronauts, a group of scientists working at NASA, and engineers to work on that robot.
 
-
 ## Acknowledgments
 NASA and University of Helsinki for creating Elements of AI and Building AI.
