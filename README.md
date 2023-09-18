@@ -55,6 +55,7 @@ In order to implement and develop that robot, I will need astronauts, a group of
 
 
 ## Acknowledgments
+NASA and University of Helsinki for creating Elements of AI and Building AI
 
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
