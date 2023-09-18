@@ -3,6 +3,8 @@ created by Reaktor Innovations and University of Helsinki.
 Copy the template, paste it to your GitHub README and edit! -->
 
 ## name
+
+
 future of earth Final project for the Building AI course
 
 
