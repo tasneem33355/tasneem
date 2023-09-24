@@ -20,15 +20,8 @@ The telescope is the greatest instrument used by scientists in the past, which h
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 
-![6041939750841072476_121](https://github.com/tasneem33355/tasneem/assets/145394474/47f97100-fdc2-48f4-b8f1-b1610b3ed407)
+![AI-in-Astronomy](https://github.com/tasneem33355/tasneem/assets/145394474/a9d8e884-e116-4673-9fff-dee760b6184c)
 
-![6041939750841072477_120](https://github.com/tasneem33355/tasneem/assets/145394474/c926a038-5a04-4026-b4da-6c065d97f33c)
-
-![6039687951027387051_121](https://github.com/tasneem33355/tasneem/assets/145394474/a94b8b35-eb92-4125-bc4e-20073298ef69)
-
-![5828173602111995087_121](https://github.com/tasneem33355/tasneem/assets/145394474/e3cf60c8-9cc4-4955-bbf1-7c9fbd567aaf)
-
-![5828173602111995090_121](https://github.com/tasneem33355/tasneem/assets/145394474/dae2a8d2-1771-47c7-bf24-467fe3c287ea)
 
 ## Data sources and AI methods
  i collect it by myself 
